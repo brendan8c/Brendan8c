@@ -5,9 +5,9 @@
 <br />
 
 - :us: I'm studying English every day in [Duolingo.](https://duome.eu/Brendan8c)
-- :computer: I'm write code every day.
-- :seedling: I’m always learning..
-- :telescope: I’m currently working on several project it is [FFMPEG_BAT](https://github.com/brendan8c/FFMPEG_BAT) and [Mailbox](https://github.com/brendan8c/#)
+- :computer: I'm writing code every day.
+- :seedling: I’m always learning.
+- :telescope: I’m currently working on several projects it as [FFMPEG_BAT](https://github.com/brendan8c/FFMPEG_BAT) and [Mailbox](https://github.com/brendan8c/#)
 - :mailbox: How to reach me: <a href="mailto:brendan8c@gmail.com">My gmail</a>
 
 <a href="https://twitter.com/brendan8c">
