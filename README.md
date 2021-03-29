@@ -4,7 +4,7 @@
 <summary>In details :mag:</summary>
 <br />
 
-- :us: I'm study English every day in a [Duolingo.](https://duome.eu/Brendan8c)
+- :us: I'm studying English every day in [Duolingo.](https://duome.eu/Brendan8c)
 - :computer: I'm write code every day.
 - :seedling: I’m always learning..
 - :telescope: I’m currently working on several project it is [FFMPEG_BAT](https://github.com/brendan8c/FFMPEG_BAT) and [Mailbox](https://github.com/brendan8c/#)
