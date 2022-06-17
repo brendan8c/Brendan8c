@@ -13,7 +13,7 @@
 <a href="https://twitter.com/brendan8c">
     <img align="left" alt="Artem Guskov | Twitter" width="25px" src="https://raw.githubusercontent.com/Brendan8c/Brendan8c/master/img/twitter.svg" />
 </a>
-<a href="https://vk.com/ae_ph">
+<a href="https://vk.com/brendan8c">
     <img align="left" alt="Artem Guskov | Twitter" width="25px" src="https://raw.githubusercontent.com/Brendan8c/Brendan8c/master/img/vk.svg" />
 </a>
 <br />
