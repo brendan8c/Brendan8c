@@ -10,8 +10,7 @@
 <a href="mailto:brendan8c@gmail.com">
     <img align="left" alt="Artem Guskov | Email" width="25px" src="https://raw.githubusercontent.com/Brendan8c/Brendan8c/master/img/email.svg" />
 </a>
-</p>
-
+</p><br>
 
 ****
 
