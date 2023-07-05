@@ -1,22 +1,18 @@
 ### :octocat: Hello friend my name is Artem, i'm frontend developer.
 
-<details>
-<summary>In details :mag:</summary>
-<br />
 
 - :us: I'm studying English every day in [Duolingo.](https://duome.eu/Brendan8c)
 - :computer: I'm writing code every day.
 - :seedling: I’m always learning.
 - :mailbox: How to reach me: <a href="mailto:brendan8c@gmail.com">My gmail</a>
-
+<p align="left">
 <a href="https://twitter.com/brendan8c">
     <img align="left" alt="Artem Guskov | Twitter" width="25px" src="https://raw.githubusercontent.com/Brendan8c/Brendan8c/master/img/twitter.svg" />
 </a>
 <a href="https://vk.com/brendan8c">
     <img align="left" alt="Artem Guskov | Twitter" width="25px" src="https://raw.githubusercontent.com/Brendan8c/Brendan8c/master/img/vk.svg" />
 </a>
-<br />
-</details>
+</p>
 
 ****
 
