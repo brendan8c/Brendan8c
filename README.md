@@ -44,25 +44,29 @@
     <tr>
         <th colspan="2">Projects</th>
     </tr>
-    <td>
-        <a href="https://github.com/brendan8c/movie">
-            <img hspace="0" width="100%" height="100%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Brendan8c&repo=movie&theme=gruvbox" />
-        </a>
-    </td>
-    <td>
-        <a href="https://github.com/brendan8c/FFMPEG_BAT">
-            <img hspace="0" width="100%" height="100%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Brendan8c&repo=FFMPEG_BAT&theme=gruvbox" />
-        </a>
-    </td>
-    <td>
-        <a href="https://github.com/brendan8c/Dir_Tree_Generator">
-            <img hspace="0" width="100%" height="100%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Brendan8c&repo=Dir_Tree_Generator&theme=gruvbox" />
-        </a>
-    </td>
-    <td>
-        <a href="https://github.com/brendan8c/Starter_Assembly">
-            <img hspace="0" width="100%" height="100%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Brendan8c&repo=Starter_Assembly&theme=gruvbox" />
-        </a>
-    </td>
+    <tr>
+        <td>
+            <a href="https://github.com/brendan8c/movie">
+                <img hspace="0" width="100%" height="100%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Brendan8c&repo=movie&theme=gruvbox" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/brendan8c/FFMPEG_BAT">
+                <img hspace="0" width="100%" height="100%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Brendan8c&repo=FFMPEG_BAT&theme=gruvbox" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/brendan8c/Dir_Tree_Generator">
+                <img hspace="0" width="100%" height="100%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Brendan8c&repo=Dir_Tree_Generator&theme=gruvbox" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/brendan8c/Starter_Assembly">
+                <img hspace="0" width="100%" height="100%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Brendan8c&repo=Starter_Assembly&theme=gruvbox" />
+            </a>
+        </td>
+    </tr>
 </table>
 <img src="https://raw.githubusercontent.com/Brendan8c/Brendan8c/master/img/0.jpg">
