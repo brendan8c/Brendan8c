@@ -10,7 +10,6 @@
 <a href="mailto:brendan8c@gmail.com">:envelope:</a>
 </p>
 <br />
-
 ****
 
 ### **Languages and Tools:**  
