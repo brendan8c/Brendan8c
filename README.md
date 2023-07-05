@@ -1,4 +1,4 @@
-### :octocat: Hi friend my name is Artem, i'm frontend developer.
+### :octocat: Hello friend my name is Artem, i'm frontend developer.
 
 <details>
 <summary>In details :mag:</summary>
